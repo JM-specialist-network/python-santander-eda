@@ -15,6 +15,7 @@ Este repositorio contiene un proyecto de análisis exploratorio de datos (EDA) s
 
 ## 🎯 Objectives / Objetivos
 
+ENG:
 - Understand the structure and quality of a real banking customer dataset (100,000 records, 49 variables).  
 - Clean and transform data: handle missing values, type conversions, outlier detection.  
 - Explore demographic patterns (age, gender, province distribution across Spain).  
@@ -22,6 +23,7 @@ Este repositorio contiene un proyecto de análisis exploratorio de datos (EDA) s
 - Apply statistical techniques: descriptive statistics, confidence intervals, correlation analysis and clustering (K-Means).  
 - Visualise distributions, relationships and clusters using Matplotlib and Seaborn.
 
+ESPAÑOL:
 - Comprender la estructura y calidad de un dataset bancario real de clientes (100.000 registros, 49 variables).  
 - Limpiar y transformar datos: tratamiento de valores faltantes, conversión de tipos, detección de outliers.  
 - Explorar patrones demográficos (edad, sexo, distribución provincial en España).  
